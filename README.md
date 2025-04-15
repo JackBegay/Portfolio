@@ -46,6 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Virtualization
 <div>
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
