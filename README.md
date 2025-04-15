@@ -48,6 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
+
 ### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Cert-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
