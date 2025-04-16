@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SQL Injection Testing and Remediation         | <a href="https://github.com/JackBegay/SQLInjection/tree/main">SQL Injection Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">SOC Automation Lab|
 | Security Assessment Report                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Security Assessment Report|
-| Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">SOC Automation Lab|
+| Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
 | Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main"> Unix Administration |
 | SQL                            | <a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
 
