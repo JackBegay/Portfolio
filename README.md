@@ -13,14 +13,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/Detection-lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| SQL Injection Testing and Remediation         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Security Assessment Report                  | SOC Automation Lab|
-| Packet Sniffing with Wireshark | SOC Automation Lab|
-| Unix Administration 
-| SQL
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/SIEM-lab/tree/main">SIEM Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/JackBegay/Detection-lab/tree/main">Detection Lab</a>|
+| SQL Injection Testing and Remediation         | <a href="https://github.com/JackBegay/SQLInjection-lab/tree/main">SQL Injection Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">SOC Automation Lab|
+| Security Assessment Report                  | <a href="https://github.com/JackBegay/Detection-lab/tree/main">Security Assessment Report|
+| Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Detection-lab/tree/main">SOC Automation Lab|
+| Unix Administration            | <a href="https://github.com/JackBegay/Detection-lab/tree/main"> Unix Administration |
+| SQL                            | <a href="https://github.com/JackBegay/Detection-lab/tree/main"> SQL Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
