@@ -9,12 +9,12 @@ I am a recent graduate from Texas Tech University with a strong interest in info
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/SIEM-lab/tree/main">SIEM Lab</a>|
-| XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
-| Incident Response Planning and Execution      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">SOC Automation Lab|
-| Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Security Assessment Report|
+| Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main">Unix Administration |
 | Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
-| Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main"> Unix Administration |
-| SQL                            | <a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
+| Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
+| Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
+| XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
+| SQL injection and Remediation             | <a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
 
 ## Tools
 
