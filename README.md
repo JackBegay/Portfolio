@@ -12,7 +12,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/SIEM-lab/tree/main">SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/JackBegay/Detection-lab/tree/main">Detection Lab</a>|
 | XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
 | Incident Response Planning and Execution      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">SOC Automation Lab|
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Security Assessment Report|
