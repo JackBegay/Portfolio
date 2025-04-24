@@ -14,7 +14,7 @@ I am a recent graduate from Texas Tech University with a strong interest in info
 | Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
 | XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
-| SQL injection and Remediation             | <a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
+| SQL injection and Remediation             | <> SQL Lab|
 
 ## Tools
 
