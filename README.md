@@ -1,4 +1,4 @@
-# Hello, I'm Jack Begayyy
+# Hello, I'm Jack Begay
 <a href="https://linkedin.com/in/jackrbegay"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
