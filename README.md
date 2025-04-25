@@ -14,7 +14,7 @@ I am a recent graduate from Texas Tech University with a strong interest in info
 | XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
 | Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
 | Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
-| SQL injection and Remediation             | SQL Lab|
+| SQL injection and Remediation             |<a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
 
 ## Tools
 
