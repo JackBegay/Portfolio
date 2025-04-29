@@ -9,10 +9,10 @@ I am a soon to be graduate from Texas Tech University with a strong interest in 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/SIEM-lab/tree/main">SIEM Lab</a>|
+| Malware Creation and Testing    | <a href="https://github.com/JackBegay/Malware-Code/tree/main"> Malware Project|
 | Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main">Unix Administration |
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
 | Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
-| Malware Creation and Testing    | <a href="https://github.com/JackBegay/Malware-Code/tree/main"> Malware Project|
 | SQL injection and Remediation             |<a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
 | XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
 | Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
