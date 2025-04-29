@@ -12,7 +12,7 @@ I am a recent graduate from Texas Tech University with a strong interest in info
 | Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main">Unix Administration |
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
 | Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
-| Writing Malware with Python    | <a href="https://github.com/JackBegay/Malware-Code/tree/main"> Malware |
+| Malware Creation and Testing    | <a href="https://github.com/JackBegay/Malware-Code/tree/main"> Malware Project|
 | SQL injection and Remediation             |<a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
 | XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
 | Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
