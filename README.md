@@ -10,6 +10,7 @@ I am a soon to be graduate from Texas Tech University with a strong interest in 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/SIEM-lab/tree/main">SIEM Lab|
 | Malware Creation and Testing    | <a href="https://github.com/JackBegay/Malware-Code/tree/main"> Malware Project|
+| Metesploit Exploitation | |
 | John the Ripper     | <a href="https://github.com/JackBegay/John-the-Ripper/tree/main">John the Ripper|
 | Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main">Unix Administration |
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
