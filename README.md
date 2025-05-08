@@ -12,12 +12,13 @@ I am a soon to be graduate from Texas Tech University with a strong interest in 
 | Creating a Network on Packet Tracer    | <a href="https://github.com/JackBegay/Network/tree/main"> Network Project |
 | Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main">Unix Administration |
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
-| John the Ripper     | <a href="https://github.com/JackBegay/John-the-Ripper/tree/main">John the Ripper|
 | Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
 | SQL injection and Remediation             |<a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
+| Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
+| John the Ripper     | <a href="https://github.com/JackBegay/John-the-Ripper/tree/main">John the Ripper|
 | XSS Attack and Remediation         | <a href="https://github.com/JackBegay/XSS-Attack/tree/main">XSS Attack|
 | Malware Creation and Testing    | <a href="https://github.com/JackBegay/Malware-Code/tree/main"> Malware Project|
-| Incident Response      | <a href="https://github.com/JackBegay/Incident-Response/tree/main">Alert Ticket|
+
 
 ## Tools
 
