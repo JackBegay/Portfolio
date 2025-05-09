@@ -11,6 +11,7 @@ I am a soon to be graduate from Texas Tech University with a strong interest in 
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/JackBegay/SIEM-lab/tree/main">SIEM Lab|
 | Creating a Network on Packet Tracer    | <a href="https://github.com/JackBegay/Network/tree/main"> Network Project |
 | Unix Administration            | <a href="https://github.com/JackBegay/Unix-Administration/tree/main">Unix Administration |
+| Bash Scripting                | <a href="https://github.com/JackBegay/Bash/tree/main"> Bash Scripting  |
 | Incident Handler's Journal                  | <a href="https://github.com/JackBegay/Security-Assessment/tree/main">Journal|
 | Packet Sniffing with Wireshark | <a href="https://github.com/JackBegay/Wireshark/tree/main">Wireshark|
 | SQL injection and Remediation             |<a href="https://github.com/JackBegay/SQL-Lab/tree/main"> SQL Lab|
