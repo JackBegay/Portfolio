@@ -50,5 +50,5 @@ I am a recent graduate from Texas Tech University with a strong interest in info
 ### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Cert-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISSP-003E2F?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
