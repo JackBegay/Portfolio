@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/jackrbegay"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-I am a soon to be graduate from Texas Tech University with a strong interest in information technology and a dedication to data security. My journey in IT has led me to develop a passion for data protection, and I am now eager to transition into this field, specifically aiming to utilize my CISSP certification in an entry level IT job.
+I am a recent graduate from Texas Tech University with a strong interest in information technology and a dedication to data security. My journey in IT has led me to develop a passion for data protection, and I am now eager to transition into this field, specifically aiming to utilize my Security+ certification in an entry level IT job.
 
 ## Skills
 
